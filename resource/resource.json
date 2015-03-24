@@ -1,0 +1,21 @@
+{
+  "resources": [
+    {
+      "name": "egretIcon",
+      "type": "image",
+      "url" : "assets/egret_icon.png"
+    },
+    {
+      "name": "icons",
+      "type": "sheet",
+      "url": "assets/icons.json"
+    }
+  ],
+
+  "groups": [
+    {
+      "name": "demo2",
+      "keys": "egretIcon, icons"
+    }
+  ]
+}
